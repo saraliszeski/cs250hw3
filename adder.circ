@@ -232,7 +232,6 @@ end TCL_Generic;&#13;
     <wire from="(3560,1270)" to="(3560,3040)"/>
     <wire from="(2540,1070)" to="(2610,1070)"/>
     <wire from="(2620,1720)" to="(2630,1720)"/>
-    <wire from="(4370,1340)" to="(4400,1340)"/>
     <wire from="(3130,590)" to="(3180,590)"/>
     <wire from="(2820,1560)" to="(2870,1560)"/>
     <wire from="(1140,1970)" to="(1280,1970)"/>
@@ -1679,13 +1678,6 @@ end TCL_Generic;&#13;
     <comp lib="1" loc="(4010,270)" name="AND Gate">
       <a name="inputs" val="3"/>
     </comp>
-    <comp lib="0" loc="(4400,1340)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="ovf"/>
-      <a name="labelloc" val="east"/>
-      <a name="labelfont" val="SansSerif plain 20"/>
-    </comp>
     <comp lib="1" loc="(4190,1360)" name="AND Gate"/>
     <comp lib="1" loc="(2750,1150)" name="NOT Gate"/>
     <comp lib="1" loc="(1530,2150)" name="NOT Gate"/>
@@ -1834,6 +1826,12 @@ end TCL_Generic;&#13;
     </comp>
     <comp lib="1" loc="(4160,1210)" name="OR Gate">
       <a name="inputs" val="3"/>
+    </comp>
+    <comp lib="0" loc="(4410,1920)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="ovf"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="1" loc="(1760,1310)" name="XOR Gate"/>
     <comp lib="1" loc="(2770,2200)" name="AND Gate">
