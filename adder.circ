@@ -1630,7 +1630,7 @@ end TCL_Generic;&#13;
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
-      <a name="label" val="output"/>
+      <a name="label" val="result"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="SansSerif plain 20"/>
     </comp>
@@ -1700,7 +1700,7 @@ end TCL_Generic;&#13;
     <comp lib="0" loc="(4400,1340)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="overflow"/>
+      <a name="label" val="ovf"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="SansSerif plain 20"/>
     </comp>
