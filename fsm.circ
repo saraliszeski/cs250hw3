@@ -459,7 +459,7 @@ end TCL_Generic;&#13;
       <a name="label" val="d0"/>
     </comp>
     <comp lib="0" loc="(160,240)" name="Pin">
-      <a name="label" val="input1"/>
+      <a name="label" val="in1"/>
       <a name="labelfont" val="SansSerif plain 20"/>
     </comp>
     <comp lib="0" loc="(1060,200)" name="Tunnel">
@@ -622,7 +622,7 @@ end TCL_Generic;&#13;
       <a name="label" val="d1"/>
     </comp>
     <comp lib="0" loc="(160,300)" name="Pin">
-      <a name="label" val="input2"/>
+      <a name="label" val="in2"/>
       <a name="labelfont" val="SansSerif plain 20"/>
     </comp>
     <comp lib="0" loc="(730,710)" name="Pin">
