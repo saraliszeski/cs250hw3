@@ -755,7 +755,7 @@ end TCL_Generic;&#13;
     </comp>
     <comp lib="0" loc="(1200,260)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="notin1"/>
+      <a name="label" val="in1"/>
     </comp>
     <comp lib="0" loc="(440,960)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -920,7 +920,7 @@ end TCL_Generic;&#13;
     <comp lib="1" loc="(250,150)" name="NOT Gate"/>
     <comp lib="0" loc="(1200,390)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="in1"/>
+      <a name="label" val="notin1"/>
     </comp>
     <comp lib="0" loc="(250,210)" name="Tunnel">
       <a name="label" val="in1"/>
